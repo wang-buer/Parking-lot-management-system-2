@@ -1,10 +1,4 @@
-# 停车场管理系统
-
-## 获取方式
-
-扫描下方，回复关键词  ：**停车场2** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 停车场管理系统2
 
 ## 1、项目介绍
 
@@ -29,44 +23,41 @@
 - 数据库类型：MySql（5.x和8.x版本都可） 
 - 硬件环境：Windows 或者 Mac OS
 
+## 获取方式
+
+下方扫一扫关注后，后台回复关键词：**停车场**，查看导入教程视频、sql脚本和源码等
+
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 4、功能介绍
 
 ### 4.1 登录注册
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091535082.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208091535082.jpg)
 
-![注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091535723.jpg)
+![注册](https://www.codeshop.fun/Typora-Images/202208091535723.jpg)
 
 ### 4.2 用户模块
 
-![用户-车辆信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091536300.jpg)
+![用户-车辆信息](https://www.codeshop.fun/Typora-Images/202208091536300.jpg)
 
-![用户-车位信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091536226.jpg)
+![用户-车位信息](https://www.codeshop.fun/Typora-Images/202208091536226.jpg)
 
-![用户-停车记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091536736.jpg)
+![用户-停车记录](https://www.codeshop.fun/Typora-Images/202208091536736.jpg)
 
 ### 4.3 管理员模块
 
-![管理员-管理员管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091536169.jpg)
+![管理员-管理员管理](https://www.codeshop.fun/Typora-Images/202208091536169.jpg)
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091536101.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202208091536101.jpg)
 
-![管理员-车位管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091536518.jpg)
+![管理员-车位管理](https://www.codeshop.fun/Typora-Images/202208091536518.jpg)
 
-![管理员-车费](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091536845.jpg)
+![管理员-车费](https://www.codeshop.fun/Typora-Images/202208091536845.jpg)
 
-![管理员-停车缴费 1](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091536921.jpg)
+![管理员-停车缴费 1](https://www.codeshop.fun/Typora-Images/202208091536921.jpg)
 
-![管理员-停车缴费2](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091536044.jpg)
+![管理员-停车缴费2](https://www.codeshop.fun/Typora-Images/202208091536044.jpg)
 
-![管理员-停车记录查询](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091536563.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**停车场2** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![管理员-停车记录查询](https://www.codeshop.fun/Typora-Images/202208091536563.jpg)
 
